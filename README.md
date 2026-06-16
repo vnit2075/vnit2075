@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/vnit2075">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
