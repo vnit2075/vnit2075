@@ -1,16 +1,19 @@
+```markdown
 <h1 align="center">👋 Hi, I'm Veerendra Nayari</h1>
 
 <h3 align="center">💡 Continuous Learner & Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/veerendranayari">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:veerendranayari6362@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vnit2075">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   </a>
 </p>
 
@@ -71,8 +74,6 @@ I believe in continuous learning and constantly exploring modern technologies in
 - CSS
 - JavaScript
 
-
-
 ## 📫 Connect With Me
 
 📧 Email: veerendranayari6362@gmail.com
@@ -81,9 +82,9 @@ I believe in continuous learning and constantly exploring modern technologies in
 
 🐙 GitHub: https://github.com/vnit2075
 
-
 ---
 
 <p align="center">
 ⭐ Always learning, building, and exploring new technologies in DevOps, Cloud, and AI.
 </p>
+```
