@@ -15,6 +15,10 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub"/>
 </a>
   </a>
+   <a href="https://instagram.com/vivid.inn">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
 </p>
 
 ---
@@ -25,7 +29,7 @@ I am a DevOps Engineer and Linux enthusiast passionate about automation, cloud t
 
 I enjoy working with Linux environments, automating repetitive tasks, troubleshooting complex issues, and optimizing deployment workflows. My experience includes managing Docker containers, building CI/CD pipelines with Jenkins, deploying applications on AWS EC2, and working with Linux networking, process management, package management, SSH, and system administration.
 
-Beyond DevOps, I have a strong foundation in Java, Spring Boot, JDBC, Hibernate, HTML, CSS, JavaScript, and SDLC concepts. I have also worked on Artificial Intelligence and Machine Learning projects, including healthcare-focused applications using TensorFlow Lite and deep learning models for disease detection.
+Beyond DevOps, I have a strong foundation in Java, Spring Boot, HTML, CSS, JavaScript, and SDLC concepts. I have also worked on Artificial Intelligence and Machine Learning projects, including healthcare-focused applications using TensorFlow Lite and deep learning models for disease detection.
 
 I believe in continuous learning and constantly exploring modern technologies in Cloud Computing, DevOps, Kubernetes, Infrastructure Automation, and AI-powered solutions. My goal is to build secure, scalable, and reliable systems that improve development efficiency and operational excellence.
 
