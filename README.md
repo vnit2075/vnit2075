@@ -15,6 +15,7 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub"/>
 </a>
   </a>
+  &nbsp;&nbsp;
    <a href="https://instagram.com/vivid.inn">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram"/>
   </a>
