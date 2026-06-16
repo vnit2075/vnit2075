@@ -3,16 +3,16 @@
 <h3 align="center">💡 Continuous Learner & Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/veerendranayari" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/veerendranayari">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:veerendranayari6362@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/vnit2075" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40" />
+  <a href="https://github.com/vnit2075">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
