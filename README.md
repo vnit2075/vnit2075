@@ -83,14 +83,14 @@ I believe in continuous learning and constantly exploring modern technologies in
 
 ## Connect With Me
 
-📧 Email: veerendranayari6362@gmail.com
+Email: veerendranayari6362@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/veerendranayari
+LinkedIn: https://www.linkedin.com/in/veerendranayari
 
-🐙 GitHub: https://github.com/vnit2075
+GitHub: https://github.com/vnit2075
 
 ---
 
 <p align="center">
-⭐ Always learning, building, and exploring new technologies in DevOps, Cloud, and AI.
+Always learning, building, and exploring new technologies in DevOps, Cloud.
 </p>
