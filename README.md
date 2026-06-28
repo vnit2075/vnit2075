@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Veerendra Nayari</h1>
+<h1 align="center">Hi, I'm Veerendra Nayari</h1>
 
 <h3 align="center">💡 Continuous Learner & Builder</h3>
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I am a DevOps Engineer and Linux enthusiast passionate about automation, cloud technologies, and building scalable infrastructure. My expertise includes Linux System Administration, Docker, Jenkins, AWS, Git, GitHub, Kubernetes, and Shell Scripting, with hands-on experience in CI/CD pipeline implementation, containerization, and cloud-based application deployment.
 
@@ -36,7 +36,7 @@ I believe in continuous learning and constantly exploring modern technologies in
 
 ---
 
-## 🚀 Currently Focusing On
+## Currently Focusing On
 
 - DevOps & Cloud Engineering
 - Linux System Administration
@@ -49,13 +49,13 @@ I believe in continuous learning and constantly exploring modern technologies in
 
 ## 🛠 Skills & Tools
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,bash" />
 </p>
 
-### 🐧 Linux Administration
+### Linux Administration
 
 - Linux System Administration
 - User & Group Management
@@ -81,7 +81,7 @@ I believe in continuous learning and constantly exploring modern technologies in
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 📧 Email: veerendranayari6362@gmail.com
 
