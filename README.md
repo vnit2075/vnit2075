@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Veerendra Nayari</h1>
 
-<h3 align="center">💡 Continuous Learner & Builder</h3>
+<h3 align="center">Continuous Learner & Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/veerendranayari">
